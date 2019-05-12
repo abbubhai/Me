@@ -11,7 +11,7 @@ class LandingPage extends Component {
               alt="avatar"
               className="avatar-img"
             />
-            <div class-Name="banner-text">
+            <div style={{ color: "white" }} class-Name="banner-text">
               <h1>Full Stack Web Developer</h1>
               <hr />
               <p>
@@ -22,7 +22,7 @@ class LandingPage extends Component {
               <div className="social-links">
                 {/* LinkedIn */}
                 <a
-                  href="http://google.com"
+                  href="https://www.linkedin.com/in/abrar-hussain-509001105/"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
